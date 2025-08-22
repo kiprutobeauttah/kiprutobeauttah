@@ -4,7 +4,12 @@
   Tip: if you are using this , Replace placeholder links with your own GIFs, images, and project URLs.
 -->
 
+---
 
+<div align="center">
+  <img src="assets/logo1.png" width="100%" alt="Neon scanlines banner"/>
+</div>
+---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kiprutobeauttah&color=blue)](https://github.com/kiprutobeauttah)
 
