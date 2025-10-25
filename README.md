@@ -84,10 +84,10 @@ As a student at **Meru University of science and Technology** . I have always em
 ![Electromagnetics](https://img.shields.io/badge/Electromagnetics-FF5722?style=for-the-badge)
 ![Aerodynamics](https://img.shields.io/badge/AeroDynamics-3F51B5?style=for-the-badge)
 ![ThermoDynamics](https://img.shields.io/badge/ThermoDynamics-9C27B0?style=for-the-badge)
-![Rocket Science](https://img.shields.io/badge/Rocket-Science-795548?style=for-the-badge)
+![Rocket Science](https://img.shields.io/badge/Rocket_Science-795548?style=for-the-badge)
 ![Ai](https://img.shields.io/badge/AI-F05032?style=for-the-badge&logo=ai&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=robot&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software-Eng-FF6600?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software_Eng-FF6600?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/Iot-FC2222?style=for-the-badge)
 
 ---
