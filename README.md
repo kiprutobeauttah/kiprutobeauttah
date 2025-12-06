@@ -3,20 +3,13 @@
   <img src="assets/logo-only1.png" width="100%" alt="Logo"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Eurostile&size=28&pause=1000&color=00D0FF&center=true&vCenter=true&width=900&lines=Hello%2C+I%E2%80%99m+Beauttah+Kipruto+%7C+@kiprutobeauttah;Building+next-gen+intelligent+systems;AI+%7C+Robotics+%7C+Quantum+%7C+Embedded+%7C+IoT+%7C+CAD+%7C+Software" alt="typing banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Eurostile&size=28&pause=1000&color=00D0FF&center=true&vCenter=true&width=900&lines=Hello%2C+I%E2%80%99m+Beauttah+Kipruto+%7C+@kiprutobeauttah;Building+next-gen+intelligent+systems;AI+%7C+ML+%7C+Robotics+%7C+IoT+%7C+CAD+%7C+Software-Eng" alt="typing banner"/>
 </p>
 
 
 ---
-
-### Socialize
-
-
 <p align="center">
-  <a href="mailto:kiprutobeauttah@gmail.com"><img src="https://img.shields.io/badge/Email-00FFF7?style=for-the-badge&logo=gmail&logoColor=000"/></a>
   <a href="https://www.linkedin.com/in/beauttah-kipruto-8qn"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/@BeauttahKi77685"><img src="https://img.shields.io/badge/Twitter-06B6D4?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://t.me/254704549226"><img src="https://img.shields.io/badge/Telegram-34D399?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/kiprutobeauttah"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
    <a href="https://medium.com/@kiprutobeauttah-8qn"><img src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
