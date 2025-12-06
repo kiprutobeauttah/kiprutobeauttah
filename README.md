@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Eurostile&size=28&pause=1000&color=00D0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%E2%80%99m+Beauttah;learning+and+building+across;AI+%7C+ML+%7C+Robotics+%7C+IoT+%7C+Design+%7C+Software-Eng" alt="typing banner"/>
 
   <a href="https://www.linkedin.com/in/beauttah-kipruto-8qn"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kiprutobeauttah"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://medium.com/@kiprutobeauttah-8qn"><img src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
