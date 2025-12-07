@@ -59,7 +59,7 @@ I think intelligence isn't just something you add on, it's how you think about d
 
 ---
 
-> *From silicon to systems — shaping autonomous intelligence.*
+> *From silicon to systems - shaping autonomous intelligence.*
 
 <p align="center">
   <sub>© Beauttah Kipruto</sub>
