@@ -1,5 +1,7 @@
 
-<img src="https://komarev.com/ghpvc/?username=kiprutobeauttah&color=018243" />
+<img src="https://komarev.com/ghpvc/?username=kiprutobeauttah&color=018243" />   ![](https://img.shields.io/badge/Engineer-Innovator-brightgreen?style=for-the-badge)
+ 
+
 <div align="center" >
   <img src="assets/logo-only1.png" width="100%" alt="Logo"/>
   <br>
