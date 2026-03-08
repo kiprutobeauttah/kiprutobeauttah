@@ -10,6 +10,19 @@
   <a href="https://medium.com/@kiprutobeauttah-8qn"><img src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
+---
+#### Perhaps you might like to see 
+<a href="https://find-out-the-design.vercel.app/">
+  <img src="https://img.shields.io/badge/Find%20Out%20The%20Design-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://art-world.onrender.com/">
+  <img src="https://img.shields.io/badge/Art%20World-FF6B6B?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+<a href="https://data-8qn.vercel.app/">
+  <img src="https://img.shields.io/badge/Data%208QN-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <p align="center">
   <sub>© Beauttah Kipruto</sub>
