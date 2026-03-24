@@ -11,7 +11,7 @@
 </div>
 
 ---
-#### Perhaps you might like to see 
+<!-- #### Perhaps you might like to see 
 <a href="https://find-out-the-design.vercel.app/">
   <img src="https://img.shields.io/badge/Find%20Out%20The%20Design-8C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -30,7 +30,7 @@
 
 <a href="https://pezli.pages.dev/">
   <img src="https://img.shields.io/badge/Pezli-F595F9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 
 <p align="center">
   <sub>© Beauttah Kipruto</sub>
