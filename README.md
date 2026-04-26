@@ -11,6 +11,17 @@
 </div>
 
 ---
+
+## Weekly check...
+
+
+|   |  | Desc|  Download|
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.com/kiprutobeauttah/faced/blob/main/faceD/assets/logo-only.png?raw=true" width="120" alt="Facion"/> | **FaceD** | Face matching | [**Linux**](https://github.com/kiprutobeauttah/faced/releases/download/Algo/faced-1.0.0-Linux.deb) |
+
+---
+
+
 <!-- #### Perhaps you might like to see 
 <a href="https://find-out-the-design.vercel.app/">
   <img src="https://img.shields.io/badge/Find%20Out%20The%20Design-8C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
