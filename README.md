@@ -18,6 +18,7 @@ _Weekly check..._
 |   |  | Desc|  Download|
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/kiprutobeauttah/faced/blob/main/faceD/assets/logo-only.png?raw=true" width="120" alt="Facion"/> | **FaceD** | Face matching | [**Linux**](https://github.com/kiprutobeauttah/faced/releases/download/Algo/faced-1.0.0-Linux.deb) |
+| <img src=" https://github.com/kiprutobeauttah/tetrus/blob/main/packaging/assets/icons/tetrus-64.png ?raw=true" width="120" alt="tetrus"/> | **tetrus** | exploring Game dev | [**Linux**](https://github.com/kiprutobeauttah/tetrus/releases/download/tetrus/tetrus-1.0.0-Linux.deb) |
 
 ---
 
